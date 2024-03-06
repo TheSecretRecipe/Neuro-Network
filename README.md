@@ -1,4 +1,4 @@
-# Neuro-Network
+# Neuro-Network Phyton
 
 import math
 import random
