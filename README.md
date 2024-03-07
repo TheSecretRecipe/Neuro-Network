@@ -1,4 +1,4 @@
-# Neuro-Network Phyton
+# Neuro-Network Python
 
 import math
 import random
